@@ -23,6 +23,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chattha926242"
+  }
+}]]></component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOPPddyc6ftXK6&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1752973203815
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chattha926242/Python-Exercises.git",
+    "accountId": "397285d9-b90a-4e03-b36b-7f1ce644ef31"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,6 +68,16 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for new.MyTestCase.executor": "Run",
     "Python.Basics-1.executor": "Run",
+<<<<<<< Updated upstream
+=======
+    "Python.ConvertRadiansIntoDegrees.executor": "Run",
+    "Python.CountVowelsInString.executor": "Run",
+    "Python.DecimalToBinary.executor": "Run",
+    "Python.Exercise1.executor": "Run",
+    "Python.HideCreditCardNumber.executor": "Run",
+    "Python.SortAList.executor": "Run",
+    "Python.XsEqualToOs.executor": "Run",
+>>>>>>> Stashed changes
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -130,7 +169,83 @@
       <option name="project" value="LOCAL" />
       <updated>1752971930392</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="3" />
+=======
+    <task id="LOCAL-00003" summary="Test Commit 2">
+      <option name="closed" value="true" />
+      <created>1752973277258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752973277258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test Commit 2">
+      <option name="closed" value="true" />
+      <created>1752973280872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752973280872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conversion of radina into degrees and sorting a list exercises.">
+      <option name="closed" value="true" />
+      <created>1752995041951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752995041951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Conversion of radina into degrees and sorting a list exercises.">
+      <option name="closed" value="true" />
+      <created>1752995201359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752995201359</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Count Vowel">
+      <option name="closed" value="true" />
+      <created>1752997425603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752997425603</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Count Vowel">
+      <option name="closed" value="true" />
+      <created>1752997480670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752997480670</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Hidden Numbers">
+      <option name="closed" value="true" />
+      <created>1753000883223</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753000883223</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Xs Equal To Os">
+      <option name="closed" value="true" />
+      <created>1753002082535</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753002082535</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DecimalToBinary">
+      <option name="closed" value="true" />
+      <created>1753005207272</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753005207272</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +306,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+=======
+    <MESSAGE value="Test Commit 2" />
+    <MESSAGE value="Conversion of radina into degrees and sorting a list exercises." />
+    <MESSAGE value="Count Vowel" />
+    <MESSAGE value="Hidden Numbers" />
+    <MESSAGE value="Xs Equal To Os" />
+    <MESSAGE value="DecimalToBinary" />
+    <option name="LAST_COMMIT_MESSAGE" value="DecimalToBinary" />
+>>>>>>> Stashed changes
   </component>
 </project>
