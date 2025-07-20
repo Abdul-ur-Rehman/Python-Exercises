@@ -178,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752973280872</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Conversion of radina into degrees and sorting a list exercises.">
+      <option name="closed" value="true" />
+      <created>1752995041951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752995041951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Conversion of radina into degrees and sorting a list exercises.">
+      <option name="closed" value="true" />
+      <created>1752995201359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752995201359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +256,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Test Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 2" />
+    <MESSAGE value="Conversion of radina into degrees and sorting a list exercises." />
+    <option name="LAST_COMMIT_MESSAGE" value="Conversion of radina into degrees and sorting a list exercises." />
   </component>
 </project>
