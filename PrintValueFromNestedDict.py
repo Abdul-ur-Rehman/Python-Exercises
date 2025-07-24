@@ -21,7 +21,7 @@ def printValue(sampleDict, word):
                                 if key4 == word:
                                     print("Method1: ", sampleDict[key][key2][key3][key4])
 
-#Method: 2
+#Method2: isinstance()
 
 def printValue2(sampleDict, word):
 
