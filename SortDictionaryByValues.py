@@ -1,7 +1,6 @@
 def sortDict(myDict):
 
     itemsList = list(my_dict.items())
-    sortedValues = {}
     for i in range(len(itemsList)):
         for j in range(i+1, len(itemsList)):
             if itemsList[i][1] > itemsList[j][1]:
