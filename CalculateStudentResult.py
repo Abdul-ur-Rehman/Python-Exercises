@@ -11,12 +11,9 @@ class StudentResult():
         return self.sumOfMarks() / len(self.marks)
 
     def dispalyResult(self):
-        return f"Name: {self.name}, Total Marks: {self.sumOfMarks()}, Average Marks: {self.avgMarks()}"
+        print(f"Name: {self.name}, Total Marks: {self.sumOfMarks()}, Average Marks: {self.avgMarks()}")
 
-obj1 = StudentResult("Bob", [76, 84, 90])
-obj2 = StudentResult("Anna", [67, 99, 55])
-obj3 = StudentResult("Mark", [73, 77, 80])
+obj1 = StudentResult("Bob", [76, 84, 90]).dispalyResult()
+obj2 = StudentResult("Anna", [67, 99, 55]).dispalyResult()
+obj3 = StudentResult("Mark", [73, 77, 80]).dispalyResult()
 
-print(obj1.dispalyResult())
-print(obj2.dispalyResult())
-print(obj3.dispalyResult())
