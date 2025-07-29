@@ -1,4 +1,5 @@
 def writeToFile(filename,output):
+
     with open(filename, "r") as reader:
         content = reader.readlines()
         content = [line.rstrip() for line in content]
@@ -11,6 +12,8 @@ def writeToFile(filename,output):
             writer.write(line + "\n")
 
         print("Content is written on file.")
+
+
 
 filename = "sample.txt"
 output = "output.txt"
