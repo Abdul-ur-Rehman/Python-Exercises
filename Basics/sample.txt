@@ -1,0 +1,4 @@
+Name: John Doe
+Age: 26
+Education: BS Computer Science
+University: ABC University
