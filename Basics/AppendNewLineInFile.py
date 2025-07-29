@@ -1,0 +1,10 @@
+def appendToFile(output, new_line):
+
+    with open(output, "a") as writer:
+        writer.write("\n" + new_line)
+
+    print("New line is appended in the output.txt file.")
+
+output = "output.txt"
+new_line = "This is an appended line."
+appendToFile(output, new_line)
