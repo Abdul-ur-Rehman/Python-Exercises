@@ -5,5 +5,4 @@ University: ABC University
 Education: BS Computer Science
 Age: 26
 Name: John Doe
-
 This is an appended line.

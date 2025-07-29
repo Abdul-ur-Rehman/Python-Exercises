@@ -1,7 +1,7 @@
 def appendToFile(output, new_line):
 
     with open(output, "a") as writer:
-        writer.write("\n" + new_line)
+        writer.write( new_line + "\n")
 
     print("New line is appended in the output.txt file.")
 
