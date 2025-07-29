@@ -4,3 +4,4 @@ Education: BS Computer Science
 University: ABC University
 Profession: QA Engineer
 Marital Status: Single
+Position: Senior QA Engineer
